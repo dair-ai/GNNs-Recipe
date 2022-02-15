@@ -1,9 +1,8 @@
 # GNNs Recipe
 
-![]
+![](/gnn.jpeg)
 
-
-Graph neural networks (GNNs) are rapidly advancing progress in ML for complex graph data applications. I've composed this concise recipe dedicated to students who are lookin to learn and keep up-to-date with GNNs.
+Graph neural networks (GNNs) are rapidly advancing progress in ML for complex graph data applications. I've composed this concise recipe dedicated to students who are lookin to learn and keep up-to-date with GNNs. It's non-exhaustive but it aims to get students familiar with the topic. 
 
 ## ⭐ Gentle Introduction to GNNs
 
