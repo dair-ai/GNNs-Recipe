@@ -60,4 +60,14 @@ Here are a few useful tools to get started with GNNs:
 
 🟠 [Spektral](https://graphneural.network/)
 
+## 🍎 Tutorials
 
+I will be posting several tutorials on GNNs, here is the first of the series. More coming soon!
+<table>
+  <tr>
+    <td>Introduction to GNNs with PyTorch Geometric</td>
+    <td><a href="https://colab.research.google.com/drive/1d0jLDwgNBtjBVQOFe8lO_1WrqTVeVZx9?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a></td>
+  </tr>
+</table>
