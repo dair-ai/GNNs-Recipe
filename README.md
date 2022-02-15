@@ -71,3 +71,6 @@ I will be posting several tutorials on GNNs, here is the first of the series. Mo
 </a></td>
   </tr>
 </table>
+
+---
+To get regular updates on new ML and NLP resources, follow me on [Twitter](https://twitter.com/omarsar0).
