@@ -12,6 +12,8 @@ There are several introductory content to learn about GNNs. The following are so
 
 🔗 [Gentle Introduction to GNNs](https://distill.pub/2021/gnn-intro/) (by Distill)
 
+🔗 [Understanding Convolutions on Graphs](https://distill.pub/2021/understanding-gnns/) (by Distill)
+
 🔗 [Graph Convolutional Networks](http://tkipf.github.io/graph-convolutional-networks/) (by Thomas Kipf)
 
 
