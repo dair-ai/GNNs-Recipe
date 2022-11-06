@@ -21,6 +21,8 @@ There are several introductory content to learn about GNNs. The following are so
 
 Here are two fantastic survey papers on the topic to get a broader and concise picture of GNNs and recent progress:
 
+🔗 [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/abs/1812.08434) (Jie Zhou, Ganqu Cui, Shengding Hu, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Changcheng Li, Maosong Sun)
+
 🔗 [Graph Neural Networks: Methods, Applications, and Opportunities](https://arxiv.org/abs/2108.10733) (Lilapati Waikhom, Ripon Patgiri)
 
 🔗 [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/abs/1901.00596) (Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu)
