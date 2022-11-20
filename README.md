@@ -2,7 +2,7 @@
 
 ![](/gnn.jpeg)
 
-Graph neural networks (GNNs) are rapidly advancing progress in ML for complex graph data applications. I've composed this concise recipe dedicated to students who are lookin to learn and keep up-to-date with GNNs. It's non-exhaustive but it aims to get students familiar with the topic. 
+Graph neural networks (GNNs) are rapidly advancing progress in ML for complex graph data applications. I've composed this concise recipe (i.e., studysheet) dedicated to students who are lookin to learn and keep up-to-date with GNNs. It's non-exhaustive but it aims to get students familiar with the topic. 
 
 ## ⭐ Gentle Introduction to GNNs
 
@@ -15,6 +15,8 @@ There are several introductory content to learn about GNNs. The following are so
 🔗 [Understanding Convolutions on Graphs](https://distill.pub/2021/understanding-gnns/) (by Distill)
 
 🔗 [Graph Convolutional Networks](http://tkipf.github.io/graph-convolutional-networks/) (by Thomas Kipf)
+
+🔗[Graph Neural Networks for Geometric Graphs - Chaitanya K. Joshi, Simon V. Mathis](https://youtu.be/VKj5wzZsoK4)
 
 
 ## 📘 Survey Papers on GNNs
