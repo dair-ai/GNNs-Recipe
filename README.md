@@ -14,6 +14,8 @@ There are several introductory content to learn about GNNs. The following are so
 
 🔗 [Understanding Convolutions on Graphs](https://distill.pub/2021/understanding-gnns/) (by Distill)
 
+🔗 [Math Behind Graph Neural Networks](https://rish-16.github.io/posts/gnn-math/) (by Rishabh Anand)
+
 🔗 [Graph Convolutional Networks](http://tkipf.github.io/graph-convolutional-networks/) (by Thomas Kipf)
 
 🔗[Graph Neural Networks for Geometric Graphs - Chaitanya K. Joshi, Simon V. Mathis](https://youtu.be/VKj5wzZsoK4)
