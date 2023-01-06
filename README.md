@@ -1,4 +1,4 @@
-# GNNs Recipe
+# Graph Neural Networks (GNNs) Study Guide
 
 ![](/gnn.jpeg)
 
